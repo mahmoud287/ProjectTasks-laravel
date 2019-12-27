@@ -1,0 +1,12 @@
+.cursor {
+    transition: all 0.3s ease-in-out;
+}
+
+.cursor:hover {
+    cursor: pointer;
+    transform: scale(1.009);
+}
+
+a {
+    text-decoration: none !important;
+}
